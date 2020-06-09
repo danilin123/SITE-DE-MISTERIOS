@@ -1,0 +1,39 @@
+body{
+  
+}
+iframe{
+    border: solid;
+}
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    text-align: center;
+  
+}
+p{
+    color:  white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+  
+}
+h2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+h3{
+    color: white;
+    text-align: center; 
+}
+h3:hover{
+    background-color: rgb(73, 73, 73);
+}
+#barra{
+    background-image: radial-gradient(rgb(61, 61, 61), black);
+  
+}
+img{
+    border-radius: 45px;
+    width: 45px;
+}
